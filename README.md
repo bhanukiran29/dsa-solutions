@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/bhanukiran29/dsa-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhanukiran29/dsa-solutions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/bhanukiran29/dsa-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bhanukiran29/dsa-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhanukiran29/dsa-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhanukiran29/dsa-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhanukiran29/dsa-solutions/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
