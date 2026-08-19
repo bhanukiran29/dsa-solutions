@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhanukiran29/dsa-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/bhanukiran29/dsa-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhanukiran29/dsa-solutions/tree/master/0054-spiral-matrix) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhanukiran29/dsa-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bhanukiran29/dsa-solutions/tree/master/0283-move-zeroes) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bhanukiran29/dsa-solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
