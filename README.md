@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bhanukiran29/dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/bhanukiran29/dsa-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/bhanukiran29/dsa-solutions/tree/master/0493-reverse-pairs) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bhanukiran29/dsa-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhanukiran29/dsa-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhanukiran29/dsa-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bhanukiran29/dsa-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhanukiran29/dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/bhanukiran29/dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bhanukiran29/dsa-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bhanukiran29/dsa-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhanukiran29/dsa-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bhanukiran29/dsa-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bhanukiran29/dsa-solutions/tree/master/0049-group-anagrams) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bhanukiran29/dsa-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
