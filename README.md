@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/bhanukiran29/dsa-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/bhanukiran29/dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bhanukiran29/dsa-solutions/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/bhanukiran29/dsa-solutions/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/bhanukiran29/dsa-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/0189-rotate-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bhanukiran29/dsa-solutions/tree/master/0048-rotate-image) |
+| [0149-max-points-on-a-line](https://github.com/bhanukiran29/dsa-solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhanukiran29/dsa-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhanukiran29/dsa-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/bhanukiran29/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/bhanukiran29/dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/bhanukiran29/dsa-solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhanukiran29/dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/bhanukiran29/dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -161,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhanukiran29/dsa-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/bhanukiran29/dsa-solutions/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/bhanukiran29/dsa-solutions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/bhanukiran29/dsa-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
