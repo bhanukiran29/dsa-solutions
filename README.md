@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/bhanukiran29/dsa-solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhanukiran29/dsa-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/bhanukiran29/dsa-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/bhanukiran29/dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhanukiran29/dsa-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bhanukiran29/dsa-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhanukiran29/dsa-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/bhanukiran29/dsa-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/bhanukiran29/dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bhanukiran29/dsa-solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/bhanukiran29/dsa-solutions/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
