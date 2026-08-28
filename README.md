@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/bhanukiran29/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/bhanukiran29/dsa-solutions/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/bhanukiran29/dsa-solutions/tree/master/0796-rotate-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/bhanukiran29/dsa-solutions/tree/master/0149-max-points-on-a-line) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/bhanukiran29/dsa-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
