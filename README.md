@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bhanukiran29/dsa-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/bhanukiran29/dsa-solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/bhanukiran29/dsa-solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/bhanukiran29/dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhanukiran29/dsa-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/bhanukiran29/dsa-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bhanukiran29/dsa-solutions/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/bhanukiran29/dsa-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhanukiran29/dsa-solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/bhanukiran29/dsa-solutions/tree/master/0796-rotate-string) |
 ## Prefix Sum
