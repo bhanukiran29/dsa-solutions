@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhanukiran29/dsa-solutions/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/bhanukiran29/dsa-solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/bhanukiran29/dsa-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhanukiran29/dsa-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhanukiran29/dsa-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhanukiran29/dsa-solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/bhanukiran29/dsa-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bhanukiran29/dsa-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/bhanukiran29/dsa-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/bhanukiran29/dsa-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Stack
 |  |
