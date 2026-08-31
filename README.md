@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/bhanukiran29/dsa-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhanukiran29/dsa-solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/bhanukiran29/dsa-solutions/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/bhanukiran29/dsa-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -191,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/bhanukiran29/dsa-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/bhanukiran29/dsa-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
