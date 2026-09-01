@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhanukiran29/dsa-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bhanukiran29/dsa-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2404-most-frequent-even-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/2404-most-frequent-even-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhanukiran29/dsa-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bhanukiran29/dsa-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhanukiran29/dsa-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/bhanukiran29/dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhanukiran29/dsa-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bhanukiran29/dsa-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2404-most-frequent-even-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/2404-most-frequent-even-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhanukiran29/dsa-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bhanukiran29/dsa-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhanukiran29/dsa-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhanukiran29/dsa-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/bhanukiran29/dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2404-most-frequent-even-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bhanukiran29/dsa-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
