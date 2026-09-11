@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/2404-most-frequent-even-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhanukiran29/dsa-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bhanukiran29/dsa-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhanukiran29/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhanukiran29/dsa-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhanukiran29/dsa-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bhanukiran29/dsa-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/2404-most-frequent-even-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhanukiran29/dsa-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bhanukiran29/dsa-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhanukiran29/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhanukiran29/dsa-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -249,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bhanukiran29/dsa-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhanukiran29/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/bhanukiran29/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
