@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bhanukiran29/dsa-solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/bhanukiran29/dsa-solutions/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/bhanukiran29/dsa-solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/0189-rotate-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhanukiran29/dsa-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/bhanukiran29/dsa-solutions/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhanukiran29/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
