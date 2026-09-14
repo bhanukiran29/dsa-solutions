@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/bhanukiran29/dsa-solutions/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/bhanukiran29/dsa-solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/bhanukiran29/dsa-solutions/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/bhanukiran29/dsa-solutions/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhanukiran29/dsa-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/bhanukiran29/dsa-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhanukiran29/dsa-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/bhanukiran29/dsa-solutions/tree/master/0149-max-points-on-a-line) |
+| [0836-rectangle-overlap](https://github.com/bhanukiran29/dsa-solutions/tree/master/0836-rectangle-overlap) |
 ## Euclidean Algorithm
 |  |
 | ------- |
