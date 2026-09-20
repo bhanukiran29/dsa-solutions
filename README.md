@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhanukiran29/dsa-solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhanukiran29/dsa-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/bhanukiran29/dsa-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/bhanukiran29/dsa-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1903-largest-odd-number-in-string](https://github.com/bhanukiran29/dsa-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/bhanukiran29/dsa-solutions/tree/master/2278-percentage-of-letter-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/bhanukiran29/dsa-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
