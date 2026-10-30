@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhanukiran29/dsa-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bhanukiran29/dsa-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/2404-most-frequent-even-element) |
+| [2768-number-of-black-blocks](https://github.com/bhanukiran29/dsa-solutions/tree/master/2768-number-of-black-blocks) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhanukiran29/dsa-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bhanukiran29/dsa-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhanukiran29/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/bhanukiran29/dsa-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bhanukiran29/dsa-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/bhanukiran29/dsa-solutions/tree/master/2404-most-frequent-even-element) |
+| [2768-number-of-black-blocks](https://github.com/bhanukiran29/dsa-solutions/tree/master/2768-number-of-black-blocks) |
 | [2965-find-missing-and-repeated-values](https://github.com/bhanukiran29/dsa-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bhanukiran29/dsa-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhanukiran29/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2768-number-of-black-blocks](https://github.com/bhanukiran29/dsa-solutions/tree/master/2768-number-of-black-blocks) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhanukiran29/dsa-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
